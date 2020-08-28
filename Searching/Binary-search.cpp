@@ -1,3 +1,4 @@
+//O(logn) time complexity
 #include <bits/stdc++.h>
 using namespace std;
 int main()
